@@ -1,0 +1,200 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About me",
+    "education": "Education",
+    "languages": "Languages",
+    "experience": "Experience",
+    "upskilling": "Upskilling",
+    "projects": "Projects",
+    "contact": "Contact"
+  },
+  "hero": {
+    "roles": ["Business Management Student", "Strategy Enthusiast", "AI Automation"],
+    "downloadResume": "Download Resume"
+  },
+  "about": {
+    "sectionLabel": "ABOUT ME",
+    "sectionTitle": "Get to know me",
+    "bio": "I am a motivated student with great learning capacity. Passionate about dynamic environments. I believe acquiring new knowledge fosters personal growth.",
+    "travelHobby": "My biggest hobby is traveling and discovering new cultures and people from all over the world.",
+    "activeLifestyle": "Active Lifestyle",
+    "activeLifestyleDesc": "I am keen on practicing sports such as futsal and running. For me, success requires practicing determination.",
+    "worldExplorer": "World Explorer",
+    "worldExplorerDesc": "Discovering new cultures, meeting people from diverse backgrounds, and embracing global perspectives.",
+    "ticker": ["Strategic Consulting", "Market Analysis", "Power BI", "Excel", "Languages", "AI Automation"]
+  },
+  "education": {
+    "sectionLabel": "EDUCATION",
+    "sectionTitle": "Academic Journey",
+    "timeline": [
+      {
+        "year": "2024 – 2025",
+        "title": "International Business (Erasmus)",
+        "institution": "University of Rijeka, Croatia",
+        "description": "Immersive international exchange program focusing on global business strategy and cross-cultural management."
+      },
+      {
+        "year": "2022 – Present",
+        "title": "Business Administration & Management",
+        "institution": "University of Zaragoza, Spain",
+        "description": "Core studies in business management, strategic planning, data analytics, and financial management."
+      },
+      {
+        "year": "2021 – 2022",
+        "title": "Senior Year Diploma",
+        "institution": "Norwell High School, USA",
+        "description": "Full academic year abroad in the United States, completing senior year diploma and developing cross-cultural competencies."
+      }
+    ],
+    "achievements": [
+      "ICIJA Award for Technological Science",
+      "Winner of Europa Junior Contest",
+      "2023 Class Representative"
+    ],
+    "watchICIJA": "Watch ICIJA Channel"
+  },
+  "languages_section": {
+    "sectionLabel": "LANGUAGES",
+    "sectionTitle": "Communicating across cultures",
+    "native": "Native",
+    "items": [
+      { "name": "Spanish", "level": "Native" },
+      { "name": "English", "level": "C1 – Cambridge" },
+      { "name": "French", "level": "B1 – CULM" }
+    ]
+  },
+  "experience": {
+    "sectionLabel": "EXPERIENCE",
+    "sectionTitle": "Work & Volunteering",
+    "workLabel": "Work",
+    "volunteeringLabel": "Volunteering",
+    "work": [
+      {
+        "title": "Activity Leader",
+        "company": "Embassy Summer, Malta",
+        "description": "Led groups of international students through educational and recreational programs, developing leadership and cross-cultural communication skills."
+      },
+      {
+        "title": "Sales Promoter",
+        "company": "LaCasera with BestWay",
+        "description": "Drove product awareness and sales through strategic in-store promotions, consumer engagement, and brand representation."
+      }
+    ],
+    "volunteer": [
+      {
+        "title": "Youth Group Leader",
+        "company": "ICIJA Volunteer",
+        "description": "Mentored and guided youth groups through community projects, fostering leadership values and social responsibility."
+      },
+      {
+        "title": "Volunteer Collaborator",
+        "company": "Rastrillo de Aragón",
+        "description": "Contributed to charitable fundraising events supporting social causes across the Aragón region in Spain."
+      }
+    ]
+  },
+  "skills": {
+    "sectionLabel": "UPSKILLING & TECH STACK",
+    "sectionTitle": "Continuously learning and evolving",
+    "items": [
+      { "title": "Data Analytics", "description": "Power BI Fundamentals" },
+      { "title": "AI Proficiency", "description": "Responsible Prompting" },
+      { "title": "Automation", "description": "No-Code Workflows with Make" },
+      { "title": "Digital Strategy", "description": "SEO Fundamentals" },
+      { "title": "Office Suite", "description": "Excel, PPT, Word" }
+    ]
+  },
+  "projects": {
+    "sectionLabel": "PROJECTS",
+    "sectionTitle": "The Future of Efficiency: Applied AI & Automation",
+    "sectionDescription": "Beyond a trend, I see AI as a vital competency for future consulting. It is a strategic tool to turn data into action and drive continuous growth in a shifting landscape.",
+    "deepDive": "Deep Dive →",
+    "viewOn": "View on",
+    "screenshotsTitle": "Screenshots with the process until I reach the final result",
+    "techStack": "Tech Stack",
+    "badges": {
+      "Automation": "Automation",
+      "AI Agents": "AI Agents",
+      "Newsletter": "Newsletter",
+      "CRM": "CRM",
+      "Analytics": "Analytics"
+    },
+    "items": [
+      {
+        "title": "Daily Energy Pulse",
+        "description": "Designed and deployed an on-demand newsletter system. Users subscribe via Tally, triggering a webhook that activates an AI workflow to generate daily email analysis of renewable energy news.",
+        "deepDive": [
+          {
+            "heading": "The Solution",
+            "content": "To put this knowledge into practice, I designed and deployed an on-demand newsletter system. Users subscribe via a <tally>Tally</tally> web interface, triggering a webhook that activates an automated AI workflow.\n\nThe system autonomously generates a daily email featuring a concise analysis of the latest renewable energy news, a \"Winners & Losers\" market assessment, and strategic recommendations for industry professionals.\n\nThis initiative was inspired by my own routine of consuming executive financial briefings; I wanted to replicate that efficiency, creating a solution that allows users to stay updated on complex energy trends in just a few minutes every morning."
+          }
+        ]
+      },
+      {
+        "title": "Smart Lead Clipper",
+        "description": "B2B Prospecting Automation. A tool that eliminates administrative friction, allowing users to focus on finding leads, not data entry. Connected LinkedIn → Gemini AI → Notion.",
+        "deepDive": [
+          {
+            "heading": "The Problem",
+            "content": "In sales, time is the most valuable asset. However, SDRs and sales reps waste hours on low-value administrative tasks: copying names, switching tabs, and manually pasting data into CRMs."
+          },
+          {
+            "heading": "My Objective",
+            "content": "To build a tool that eliminates administrative friction, allowing users to focus on finding and qualifying leads, not data entry."
+          },
+          {
+            "heading": "The Workflow",
+            "content": "The system connects LinkedIn → Gemini AI → Notion. It captures lead data from LinkedIn profiles, enriches it with AI-powered analysis, and automatically organizes it in a structured Notion database — all in one click."
+          }
+        ]
+      },
+      {
+        "title": "Strategic Benchmarking",
+        "description": "Automated Financial Benchmarking. A pipeline that eliminates administrative friction, allowing users to focus on analyzing financial performance rather than manual data entry. Connected OneDrive → Gemini AI → Google Sheets → Power BI.",
+        "deepDive": [
+          {
+            "heading": "The Problem",
+            "content": "Financial benchmarking is traditionally a slow, bureaucratic process. Analysts spend hours scouring annual reports and manually updating spreadsheets—valuable time that should be spent on high-level strategic decision-making and market positioning."
+          },
+          {
+            "heading": "My Objective",
+            "content": "To build an automated pipeline that eliminates administrative friction, allowing users to focus on analyzing financial performance and taking strategic action rather than performing manual data entry."
+          },
+          {
+            "heading": "The Workflow",
+            "content": "The system connects OneDrive → Gemini AI → Google Sheets → Power BI. It captures financial reports uploaded to the cloud, uses AI to intelligently extract key metrics (Revenue Growth, Net Margin, Inventory Turnover), and visualizes Inditex's position against its main competitors in a dynamic dashboard."
+          },
+          {
+            "heading": "The Value",
+            "content": "This tool shifts the focus from 'paperwork' to 'insights.' By instantly comparing Inditex's profitability and efficiency against market leaders, we can identify strategic gaps in real-time. The system is fully scalable, making it easy to add or discard competitors. Shifting the focus from bureaucracy to action."
+          }
+        ]
+      }
+    ]
+  },
+  "contact": {
+    "sectionTitle": "Work with me",
+    "sectionSubtitle": "Let's connect and create together",
+    "linkedin": "LinkedIn",
+    "email": "Email",
+    "phone": "Phone",
+    "location": "Location",
+    "copied": "copied!",
+    "copiedDesc": "has been copied to clipboard",
+    "copyright": "© {{year}} Ana Dorotea Marín. All rights reserved."
+  },
+  "chat": {
+    "greeting": "👋 Hi! I'm Ana's virtual assistant. Ask me anything about her experience, skills, or availability!",
+    "bubble": "Ask me anything! 💬",
+    "assistantName": "Ana's Assistant",
+    "askMe": "Ask me anything",
+    "placeholder": "Type a message...",
+    "connectionError": "⚠️ Connection error. Please try again."
+  },
+  "notFound": {
+    "title": "404",
+    "message": "Oops! Page not found",
+    "returnHome": "Return to Home"
+  }
+}

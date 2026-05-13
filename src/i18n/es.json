@@ -1,0 +1,200 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "about": "Sobre mí",
+    "education": "Educación",
+    "languages": "Idiomas",
+    "experience": "Experiencia",
+    "upskilling": "Formación",
+    "projects": "Proyectos",
+    "contact": "Contacto"
+  },
+  "hero": {
+    "roles": ["Estudiante de ADE", "Apasionada por la Estrategia", "Automatización con IA"],
+    "downloadResume": "Descargar CV"
+  },
+  "about": {
+    "sectionLabel": "SOBRE MÍ",
+    "sectionTitle": "Conóceme",
+    "bio": "Soy una estudiante motivada con gran capacidad de aprendizaje. Apasionada por los entornos dinámicos. Creo que adquirir nuevos conocimientos fomenta el crecimiento personal.",
+    "travelHobby": "Mi mayor hobby es viajar y descubrir nuevas culturas y personas de todo el mundo.",
+    "activeLifestyle": "Vida Activa",
+    "activeLifestyleDesc": "Me encanta practicar deportes como el fútbol sala y correr. Para mí, el éxito requiere practicar la determinación.",
+    "worldExplorer": "Exploradora del Mundo",
+    "worldExplorerDesc": "Descubriendo nuevas culturas, conociendo personas de diversos orígenes y adoptando perspectivas globales.",
+    "ticker": ["Consultoría Estratégica", "Análisis de Mercado", "Power BI", "Excel", "Idiomas", "Automatización con IA"]
+  },
+  "education": {
+    "sectionLabel": "EDUCACIÓN",
+    "sectionTitle": "Trayectoria Académica",
+    "timeline": [
+      {
+        "year": "2024 – 2025",
+        "title": "Negocios Internacionales (Erasmus)",
+        "institution": "Universidad de Rijeka, Croacia",
+        "description": "Programa de intercambio internacional inmersivo centrado en estrategia empresarial global y gestión intercultural."
+      },
+      {
+        "year": "2022 – Presente",
+        "title": "Administración y Dirección de Empresas",
+        "institution": "Universidad de Zaragoza, España",
+        "description": "Estudios principales en gestión empresarial, planificación estratégica, análisis de datos y gestión financiera."
+      },
+      {
+        "year": "2021 – 2022",
+        "title": "Diploma de Último Año",
+        "institution": "Norwell High School, EE.UU.",
+        "description": "Año académico completo en el extranjero en Estados Unidos, completando el diploma de último año y desarrollando competencias interculturales."
+      }
+    ],
+    "achievements": [
+      "Premio ICIJA a la Ciencia Tecnológica",
+      "Ganadora del Concurso Europa Junior",
+      "Representante de Clase 2023"
+    ],
+    "watchICIJA": "Ver Canal ICIJA"
+  },
+  "languages_section": {
+    "sectionLabel": "IDIOMAS",
+    "sectionTitle": "Comunicando entre culturas",
+    "native": "Nativo",
+    "items": [
+      { "name": "Español", "level": "Nativo" },
+      { "name": "Inglés", "level": "C1 – Cambridge" },
+      { "name": "Francés", "level": "B1 – CULM" }
+    ]
+  },
+  "experience": {
+    "sectionLabel": "EXPERIENCIA",
+    "sectionTitle": "Trabajo y Voluntariado",
+    "workLabel": "Trabajo",
+    "volunteeringLabel": "Voluntariado",
+    "work": [
+      {
+        "title": "Líder de Actividades",
+        "company": "Embassy Summer, Malta",
+        "description": "Lideré grupos de estudiantes internacionales en programas educativos y recreativos, desarrollando habilidades de liderazgo y comunicación intercultural."
+      },
+      {
+        "title": "Promotora de Ventas",
+        "company": "LaCasera con BestWay",
+        "description": "Impulsé el conocimiento del producto y las ventas a través de promociones estratégicas en tienda, interacción con consumidores y representación de marca."
+      }
+    ],
+    "volunteer": [
+      {
+        "title": "Líder de Grupo Juvenil",
+        "company": "Voluntaria ICIJA",
+        "description": "Mentoricé y guié a grupos juveniles en proyectos comunitarios, fomentando valores de liderazgo y responsabilidad social."
+      },
+      {
+        "title": "Colaboradora Voluntaria",
+        "company": "Rastrillo de Aragón",
+        "description": "Contribuí a eventos benéficos de recaudación de fondos apoyando causas sociales en la región de Aragón, España."
+      }
+    ]
+  },
+  "skills": {
+    "sectionLabel": "FORMACIÓN Y TECH STACK",
+    "sectionTitle": "Aprendiendo y evolucionando continuamente",
+    "items": [
+      { "title": "Análisis de Datos", "description": "Fundamentos de Power BI" },
+      { "title": "Competencia en IA", "description": "Prompting Responsable" },
+      { "title": "Automatización", "description": "Flujos No-Code con Make" },
+      { "title": "Estrategia Digital", "description": "Fundamentos de SEO" },
+      { "title": "Suite Office", "description": "Excel, PPT, Word" }
+    ]
+  },
+  "projects": {
+    "sectionLabel": "PROYECTOS",
+    "sectionTitle": "El Futuro de la Eficiencia: IA Aplicada y Automatización",
+    "sectionDescription": "Más allá de una tendencia, veo la IA como una competencia vital para la consultoría del futuro. Es una herramienta estratégica para convertir datos en acción e impulsar el crecimiento continuo en un panorama cambiante.",
+    "deepDive": "Ver más →",
+    "viewOn": "Ver en",
+    "screenshotsTitle": "Capturas del proceso hasta llegar al resultado final",
+    "techStack": "Stack Tecnológico",
+    "badges": {
+      "Automation": "Automatización",
+      "AI Agents": "Agentes IA",
+      "Newsletter": "Newsletter",
+      "CRM": "CRM",
+      "Analytics": "Analítica"
+    },
+    "items": [
+      {
+        "title": "Daily Energy Pulse",
+        "description": "Diseñé y desplegué un sistema de newsletter bajo demanda. Los usuarios se suscriben a través de Tally, activando un webhook que ejecuta un flujo de IA para generar análisis diarios por email sobre noticias de energía renovable.",
+        "deepDive": [
+          {
+            "heading": "La Solución",
+            "content": "Para poner estos conocimientos en práctica, diseñé y desplegué un sistema de newsletter bajo demanda. Los usuarios se suscriben a través de una interfaz web de <tally>Tally</tally>, activando un webhook que ejecuta un flujo de trabajo de IA automatizado.\n\nEl sistema genera de forma autónoma un email diario con un análisis conciso de las últimas noticias de energía renovable, una evaluación de mercado de \"Ganadores y Perdedores\" y recomendaciones estratégicas para profesionales del sector.\n\nEsta iniciativa se inspiró en mi propia rutina de consumir briefings financieros ejecutivos; quería replicar esa eficiencia, creando una solución que permite a los usuarios mantenerse actualizados sobre tendencias energéticas complejas en solo unos minutos cada mañana."
+          }
+        ]
+      },
+      {
+        "title": "Smart Lead Clipper",
+        "description": "Automatización de Prospección B2B. Una herramienta que elimina la fricción administrativa, permitiendo a los usuarios centrarse en encontrar leads, no en introducir datos. Conecta LinkedIn → Gemini AI → Notion.",
+        "deepDive": [
+          {
+            "heading": "El Problema",
+            "content": "En ventas, el tiempo es el activo más valioso. Sin embargo, los SDRs y representantes de ventas pierden horas en tareas administrativas de bajo valor: copiando nombres, cambiando de pestaña y pegando datos manualmente en CRMs."
+          },
+          {
+            "heading": "Mi Objetivo",
+            "content": "Construir una herramienta que elimine la fricción administrativa, permitiendo a los usuarios centrarse en encontrar y cualificar leads, no en la introducción de datos."
+          },
+          {
+            "heading": "El Flujo de Trabajo",
+            "content": "El sistema conecta LinkedIn → Gemini AI → Notion. Captura datos de leads desde perfiles de LinkedIn, los enriquece con análisis potenciado por IA y los organiza automáticamente en una base de datos estructurada de Notion — todo con un solo clic."
+          }
+        ]
+      },
+      {
+        "title": "Strategic Benchmarking",
+        "description": "Benchmarking Financiero Automatizado. Un pipeline que elimina la fricción administrativa, permitiendo a los usuarios centrarse en analizar el rendimiento financiero en lugar de la introducción manual de datos. Conecta OneDrive → Gemini AI → Google Sheets → Power BI.",
+        "deepDive": [
+          {
+            "heading": "El Problema",
+            "content": "El benchmarking financiero es tradicionalmente un proceso lento y burocrático. Los analistas pasan horas revisando informes anuales y actualizando hojas de cálculo manualmente — tiempo valioso que debería dedicarse a la toma de decisiones estratégicas de alto nivel y al posicionamiento en el mercado."
+          },
+          {
+            "heading": "Mi Objetivo",
+            "content": "Construir un pipeline automatizado que elimine la fricción administrativa, permitiendo a los usuarios centrarse en analizar el rendimiento financiero y tomar acciones estratégicas en lugar de realizar la introducción manual de datos."
+          },
+          {
+            "heading": "El Flujo de Trabajo",
+            "content": "El sistema conecta OneDrive → Gemini AI → Google Sheets → Power BI. Captura informes financieros subidos a la nube, utiliza IA para extraer inteligentemente métricas clave (Crecimiento de Ingresos, Margen Neto, Rotación de Inventario) y visualiza la posición de Inditex frente a sus principales competidores en un dashboard dinámico."
+          },
+          {
+            "heading": "El Valor",
+            "content": "Esta herramienta desplaza el foco del 'papeleo' a los 'insights.' Al comparar instantáneamente la rentabilidad y eficiencia de Inditex con los líderes del mercado, podemos identificar brechas estratégicas en tiempo real. El sistema es totalmente escalable, facilitando añadir o descartar competidores. Desplazando el foco de la burocracia a la acción."
+          }
+        ]
+      }
+    ]
+  },
+  "contact": {
+    "sectionTitle": "Trabaja conmigo",
+    "sectionSubtitle": "Conectemos y creemos juntos",
+    "linkedin": "LinkedIn",
+    "email": "Email",
+    "phone": "Teléfono",
+    "location": "Ubicación",
+    "copied": "¡copiado!",
+    "copiedDesc": "se ha copiado al portapapeles",
+    "copyright": "© {{year}} Ana Dorotea Marín. Todos los derechos reservados."
+  },
+  "chat": {
+    "greeting": "👋 ¡Hola! Soy el asistente virtual de Ana. ¡Pregúntame lo que quieras sobre su experiencia, habilidades o disponibilidad!",
+    "bubble": "¡Pregúntame lo que quieras! 💬",
+    "assistantName": "Asistente de Ana",
+    "askMe": "Pregúntame lo que quieras",
+    "placeholder": "Escribe un mensaje...",
+    "connectionError": "⚠️ Error de conexión. Por favor, inténtalo de nuevo."
+  },
+  "notFound": {
+    "title": "404",
+    "message": "¡Ups! Página no encontrada",
+    "returnHome": "Volver al Inicio"
+  }
+}
